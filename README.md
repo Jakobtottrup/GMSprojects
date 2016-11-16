@@ -10,7 +10,12 @@
 8. Super Rainbow Reef
 9. Tic Tac Toe
 10. Wingman Sam
-11. Princes Platform
+11. Platform (WIP)
+12. Pyramid panic (WIP)
+13. Pacman (WIP)
 
+
+PF1-Jakobtøttrup
+- Første porteføljeopgave baseret på Maze spillet
 
 
